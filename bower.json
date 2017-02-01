@@ -1,0 +1,32 @@
+{
+  "name": "m-grid",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kishan Mundha"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "mGrid",
+    "m-grid",
+    "grid",
+    "table"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.x",
+    "angular-bootstrap": "^2.5.0",
+    "bootstrap": "~3.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.5.0"
+  }
+}
