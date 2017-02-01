@@ -1,4 +1,4 @@
-# mGrid
+# mGrid [![Build Status](https://travis-ci.org/kishanmundha/mGrid.svg?branch=master)](https://travis-ci.org/kishanmundha/mGrid) [![Coverage Status]()](https://codecov.io/gh/kishanmundha/mGrid)
 
 #### Features
 * support offline and online (ajax data) both
