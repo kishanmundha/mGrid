@@ -17,5 +17,5 @@ install: npm install
 script: npm test
 
 after_success:
-  - coveralls
+  - bash <(curl -s https://codecov.io/bash)
   - codecov --file coverage/lcov.info --disable search
